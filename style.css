@@ -614,3 +614,18 @@
 .copy p{
 	font-size: 12px;
 }
+
+.heading{
+	cursor: default;
+	font-family: sans-serif;
+	transition: all .5s ease-out;
+}
+.heading:hover{
+	letter-spacing: 3px;
+}
+/* .heading:hover{
+	letter-spacing: 2px;
+} */
+h1,h2,p,span{
+	cursor: default;
+}
